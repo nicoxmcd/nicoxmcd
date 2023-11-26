@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nicomcd a Computer Engineering student at Stevens Institute of Technology!
-- 👀 I’m interested in a variety of different disciplines within technology: software, security,data, web and app development..
-- 🌱 I’m currently learning Golang, R, SQL to bolster my resume..
-- 💞️ I’m looking to collaborate on a possible language learning app..
+- 💼 I currently have about 2 years of experience in the industry in development services!
+- 👀 I’m interested in a variety of different disciplines within technology.
+- 🌱 I’m currently learning REST APIs for Artifactory JFrog and using GitHub Actions.
+- 💞️ I’m looking to collaborate on a possible language learning app.
 - 📫 How to reach me: nmcderm1@stevens.edu
