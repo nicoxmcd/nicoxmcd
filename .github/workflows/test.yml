@@ -1,0 +1,15 @@
+name: sample action
+run-name: ${{ github.actor }} running ${{ github.ref_name }} ${{ github.run_number}}
+
+on: 
+  workflow_dispatch:
+  push:
+    paths:
+      - '**action.yml'
+
+jobs:
+  Test:
+    runs-on: ubuntu-latest
+    steps:
+    - run: echo "hello ${{ github.actor }}"
+    
