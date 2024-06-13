@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicomcd a Computer Engineering student at Stevens Institute of Technology!
-- 💼 I currently have about 2 years of experience in the industry in development services!
+- 💼 I currently have about 2 years of experience in development services!
 - 👀 I’m interested in a variety of different disciplines within technology.
 - 🌱 I’m currently learning REST APIs for Artifactory JFrog and using GitHub Actions.
 - 💞️ I’m looking to collaborate on a possible language learning app.
