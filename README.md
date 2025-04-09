@@ -6,7 +6,7 @@
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
 - 📫 How to reach me: nmcderm1@stevens.edu
 
-### Check My Other Projects
+###  ⬇️ Check My Other Projects ⬇️
 | Project | Description |
 | ----------- | ----------- |
 | [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to an AI powered application |
