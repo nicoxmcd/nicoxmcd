@@ -11,5 +11,5 @@
 | ----------- | ----------- |
 | [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to an AI powered application |
 | [ExerQ](https://github.com/nicoxmcd/ExerQ) | AWS hosted web-app designed to simplify the process of identifying successful workouts |
-| [cHAMber.co](https://sites.google.com/stevens.edu/chamberco/home) | CPU-Socket for liquid metal thermal paste |
+| [cHAMber.co](https://sites.google.com/stevens.edu/chamberco/home) | CPU-Socket for liquid metal thermal paste focusing on the engineering process |
 | [Project Sea Turtles](https://nicoxmcd.github.io/Project-SeaTurtles) | Spreading awareness about sea turtles & celebrating women in STEM |
