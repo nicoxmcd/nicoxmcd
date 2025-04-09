@@ -11,5 +11,6 @@
 | ----------- | ----------- |
 | [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to an AI powered application |
 | [ExerQ](https://github.com/nicoxmcd/ExerQ) | AWS hosted web-app designed to simplify the process of identifying successful workouts |
+| [BankBridge](https://docs.google.com/presentation/d/1yTkpNXQ6CVAcjz-22RRTSsUkL51xsw0yQgWiQUHQeKA/edit?usp=sharing) | Software requirements project for potential banking application |
 | [cHAMber.co](https://sites.google.com/stevens.edu/chamberco/home) | CPU-Socket for liquid metal thermal paste focusing on the engineering process |
 | [Project Sea Turtles](https://nicoxmcd.github.io/Project-SeaTurtles) | Spreading awareness about sea turtles & celebrating women in STEM |
