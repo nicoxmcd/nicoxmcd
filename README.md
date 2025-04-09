@@ -1,5 +1,15 @@
-- 👋 Hi, I’m @nicomcd a Computer Engineering student at Stevens Institute of Technology!
-- 💼 I currently have about 2 years of experience in development services!
-- 👀 I’m interested in a variety of different disciplines within technology.
-- 🌱 I’m currently learning REST APIs for Artifactory JFrog and using GitHub Actions.
+- 👋 Hi, I’m @nicoxmcd!
+- 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
+- 💼 System Engineer for Development Services Team @ SPHERE Technology Solutions
+- 👀 My Senior Design project is BAM Monitoring, utilizing EMG sensors to collect data and analyze it with our AI model
+- ☁️ I'm currently working on a project using DevOps principles focusing on deploying a web-app using AWS
+- 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
 - 📫 How to reach me: nmcderm1@stevens.edu
+
+### Check My Other Projects
+| Project | Description |
+| ----------- | ----------- |
+| [BAM Monitoring](https://bam-monitoring.my.canva.site/) | Wireless Sensor Network connected to an AI powered application |
+| [ExerQ](https://github.com/nicoxmcd/ExerQ) | AWS hosted web-app designed to simplify the process of identifying successful workouts |
+| [cHAMber.co](https://sites.google.com/stevens.edu/chamberco/home) | CPU-Socket for liquid metal thermal paste |
+| [Project SeaTurtles](https://nicoxmcd.github.io/Project-SeaTurtles) | Spreading awareness about seaturtles & celebrating women in STEM |
