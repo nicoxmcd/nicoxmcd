@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicoxmcd!
 - 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
-- 💼 System Engineer for Development Services Team @ SPHERE Technology Solutions
+- 💼 DevOps Engineer for Development Services Team @ SPHERE Technology Solutions
 - 👀 My Senior Design project is BAM Monitoring, utilizing EMG sensors to collect data and analyze it with our AI model
 - ☁️ I'm currently working on a project using DevOps principles focusing on deploying a web-app using AWS
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
