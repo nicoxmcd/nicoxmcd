@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nicoxmcd!
+- 👋 Hi, I’m Nicole!
 - 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
 - 💼 DevOps Engineer for Development Services Team @ SPHERE Technology Solutions
 - 👀 My Senior Design project is BAM Monitoring, utilizing EMG sensors to collect data and analyze it with our AI model
-- ☁️ I'm currently working on a project using DevOps principles focusing on deploying a web-app using AWS
+- ☁️ My DevSecOps project focuses on utilizing AWS to deploy a web-app to output workout routines (ExerQ)
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
 - 📫 How to reach me: nmcderm1@stevens.edu
 
