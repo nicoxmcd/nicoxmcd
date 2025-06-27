@@ -4,7 +4,7 @@
 - 👀 My Senior Design project is BAM Monitoring, utilizing EMG sensors to collect data and analyze it with our AI model
 - ☁️ My DevSecOps project focuses on utilizing AWS to deploy a web-app to output workout routines (ExerQ)
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
-- 📫 How to reach me: nmcderm1@stevens.edu
+- 📫 How to reach me: nicolexmcdermott@proton.me
 
 ###  ⬇️ Check Out My Other Projects ⬇️
 | Project | Description |
