@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nicole!
 - 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
 - 💼 DevOps Engineer for Development Services Team @ SPHERE Technology Solutions
-- 👀 My Senior Design project is BAM Monitoring, utilizing EMG sensors to collect data and analyze it with our AI model
-- ☁️ My DevSecOps project focuses on utilizing AWS to deploy a web-app to output workout routines (ExerQ)
+- 👀 Currently working on the AWS Cloud Resume Challenge! Stay tuned!
+- ☁️ My DevSecOps project, ExerQ, focuses on utilizing AWS to deploy a web-app to output workout routines
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
 - 📫 How to reach me: nicolexmcdermott@proton.me
 
