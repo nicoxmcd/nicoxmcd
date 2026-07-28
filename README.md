@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Nicole!
-- 💻 B.E. Computer Engineering (Concentration in Network Security) @ Stevens Institute of Technology
-- 💼 Cloud DevOps Engineer for the Development Services Team @ SPHERE Technology Solutions
-- 👀 Currently learning so much at my position about networking and security in AWS!
+- 💻 B.E. Computer Engineering (Concentration in Network Security)
+- 💼 DevOps Engineer
 - ☁️ My DevSecOps project, ExerQ, focuses on utilizing AWS to deploy a web-app to output workout routines
 - 🌱 I'm focused on growing my AWS skills and learning Terraform and automation
-- 📫 How to reach me: nicolexan@proton.me
 
 ###  ⬇️ Check Out My Other Projects ⬇️
 | Project | Description |
